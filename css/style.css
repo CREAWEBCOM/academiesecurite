@@ -413,7 +413,9 @@ a:focus {
 .security_section .security_img-box.i-box-3 {
   background-image: url(../images/security-3.jpg);
 }
-
+.security_section .security_img-box.i-box-4 {
+  background-image: url(../images/security-4.JPG);
+}
 .security_section .security_img-box a {
   display: none;
   opacity: 0;
